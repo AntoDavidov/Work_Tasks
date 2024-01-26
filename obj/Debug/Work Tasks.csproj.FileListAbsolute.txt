@@ -1,0 +1,27 @@
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\obj\Debug\Work Tasks.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\obj\Debug\Work_Tasks.Properties.Resources.resources
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\obj\Debug\Work Tasks.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\obj\Debug\Work Tasks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\Work Tasks.exe.config
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\Work Tasks.exe
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\Work Tasks.pdb
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\CsvHelper.dll
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\CsvHelper.xml
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\obj\Debug\Work Tasks.csproj.CopyComplete
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\obj\Debug\Work Tasks.exe
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\obj\Debug\Work Tasks.pdb
+C:\Users\User\source\repos\ctraltdelProject\Project\Work Tasks\Work Tasks\obj\Debug\Work_Tasks.frmWorkTasks.resources
