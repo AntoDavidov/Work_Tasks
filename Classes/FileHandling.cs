@@ -70,7 +70,7 @@ namespace Work_Tasks
             catch (Exception ex)
             {
                 MessageBox.Show($"Error loading data: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return null; // Or however you wish to handle this case
+                return null; 
             }
         }
     }
